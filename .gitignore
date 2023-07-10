@@ -1,0 +1,6 @@
+/temp/
+/build/
+/dist/
+/venv/
+/.idea/
+/*.spec
